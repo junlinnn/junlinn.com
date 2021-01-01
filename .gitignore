@@ -1,5 +1,7 @@
 node_modules
 
+client_tailwind
+
 client/build
 client/node_modules
 
